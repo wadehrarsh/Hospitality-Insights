@@ -20,7 +20,7 @@ The project resulted in a detailed dashboard highlighting various KPIs, includin
 These insights are crucial for making informed strategic decisions.
 
 ## Data Source
-The dataset used for this analysis is available in this repository. You can find it [here](https://github.com/wadehrarsh/Hospitality-Insights).
+The dataset used for this analysis is available in this repository. You can find it [here](https://github.com/wadehrarsh/Hospitality-Insights/tree/main/datasource).
 
 ## How to Run the Project
 1. Clone this repository
