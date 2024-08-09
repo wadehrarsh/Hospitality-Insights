@@ -40,8 +40,5 @@ The dataset used for this analysis is available in this repository. You can find
 - Incorporate customer feedback data for sentiment analysis
 - Develop automated reporting system for real-time insights
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/your-repo-name/issues) if you want to contribute.
-
 ## Contact
 Arshdeep Kaur - hello@arshdeepkaur.in
